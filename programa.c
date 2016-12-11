@@ -5,8 +5,9 @@
  *  Por último, almacena el resultado de la diferencia en un fichero de salida.
  *
  *  Autor: Juan Carlos Calvo Sansegundo.  
- *  Fecha: 03/10/2016.
+ *  Fecha: 11/10/2016.
  *
+ *  Version 1.1 
  */
 #include <stdio.h>
 #include <time.h>
